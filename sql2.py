@@ -99,9 +99,9 @@ def scan_sql_injection(url):
 
 
 if __name__ == "__main__":
-    print("[+]Created By: Lumene Caleb \n[+]Student Number: 1902114243\n[+]Course: Ethical Hacking ")
+    print("[+]Created By: Lumene Caleb \n[+]Student Number: 1902******\n[+]Course: Ethical Hacking ")
     print("[+]Lecturers: Eng Mwashi, Eng Simata\n[+]Project title: SqlScanner")
-    print("[+]Email: caleblumene@gmail.com")
+    print("[+]Email: reconface7@gmail.com")
 
     url = input("Enter the site URL to scan: ")
     scan_sql_injection(url)
