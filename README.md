@@ -13,3 +13,5 @@ Method: post
 Inputs:
 Name: searchFor, Type: text, Value: ``
 Name: goButton, Type: submit, Value: go
+
+The Sql scanner/crawler was used to search for sql injection vulnerabilities
